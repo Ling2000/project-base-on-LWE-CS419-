@@ -1,0 +1,3 @@
+This project is a specific LWE public-key scheme based on the public-key system which is proposed in "On Lattices, Learning with Errors, Random Linear Codes, and Cryptography
+". 
+Run the server first. Then run the client and client2. When "Ready to chat" appear on the screen, you can chat. The encrypted message and public key will show on the server. You can use these information to decrypt it.  
